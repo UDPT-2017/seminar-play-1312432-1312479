@@ -1,6 +1,6 @@
-# Seminar-UDPT - *Name of your app*
+# Seminar-UDPT - *Tên đề tài*
 
-**Name of your app** là một repository trong đề tài tìm hiểu của lớp Ứng dụng phân tán.
+**Tên đề tài** là một repository trong đề tài tìm hiểu của lớp Ứng dụng phân tán.
 
 Thành viên:
 * [ ] **MSSV1** Tên sinh viên 1 (tên tài khoản github)
