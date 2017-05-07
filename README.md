@@ -30,6 +30,7 @@ Các **nội dung lý thuyết** dự định tìm hiểu. Nhóm liệt kê các
 * [x] Giới thiệu một số IDE cho Scala và Play Framework
 * [x] Cấu trúc Play Framework
 * [x] Kết nối với database (mySQL)
+
 Các **chức năng của demo** đã thực hiện hoặc dự kiến thực hiện. Nhóm check vào các chức năng đã làm
 * [ ] Chức năng 1
 * [ ] Chức năng 2
