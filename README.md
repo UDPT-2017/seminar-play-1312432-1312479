@@ -20,7 +20,7 @@ Yêu cầu **GIT**
 
 Yêu cầu **bắt buộc**
 * [x] Source code demo
-* [ ] Slide thuyết trình
+* [x] Slide thuyết trình
 * [x] Tạo github page để viết lại báo cáo cho nội dung đề tài tìm hiểu
 
 Các **nội dung lý thuyết** dự định tìm hiểu. Nhóm liệt kê các nội dung đã làm được vào bên dưới và check vào các nội dung đã tìm hiểu được.
