@@ -4,7 +4,20 @@
 # ~~~~
 
 # An example controller showing a sample home page
-GET     /                           controllers.HomeController.index
 
 # Map static resources from the /public folder to the /assets URL path
-GET     /assets/*file               controllers.Assets.versioned(path="/public", file: Asset)
+GET     /Assets/*file               controllers.Assets.at(path="/public", file)
+
+
+GET     /                               controllers.Application.index
+
+#thong tin nhom
+GET   /about                     controllers.HomeController.about()
+
+GET   /login                     controllers.Application.login()
+#GET   /session                    scalaguide.sql.UserController.session(username: String, password: String
+GET    /session                 controllers.Application.session()
+GET   /exit                     controllers.Application.exit()
+GET   /log                     scalaguide.sql.LogController.index()
+GET   /register                 controllers.Application.register()
+#GET   /adduser                  scalaguide.sql.UserController.adduser(username: String, password: String)
