@@ -32,8 +32,9 @@ Các **nội dung lý thuyết** dự định tìm hiểu. Nhóm liệt kê các
 * [x] Kết nối với database (mySQL)
 
 Các **chức năng của demo** đã thực hiện hoặc dự kiến thực hiện. Nhóm check vào các chức năng đã làm
-* [ ] Chức năng 1
-* [ ] Chức năng 2
+* [x] sử dụng template engine
+* [x] dùng session lưu user khi login và xóa session khi logout
+* [x] lấy dữ liệu lưu ở mysql 
 
 ## Demo
 
