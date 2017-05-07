@@ -24,9 +24,12 @@ Yêu cầu **bắt buộc**
 * [x] Tạo github page để viết lại báo cáo cho nội dung đề tài tìm hiểu
 
 Các **nội dung lý thuyết** dự định tìm hiểu. Nhóm liệt kê các nội dung đã làm được vào bên dưới và check vào các nội dung đã tìm hiểu được.
-* [ ] Nội dung 1
-* [ ] Nội dung 2
-
+* [x] Giới thiệu về ngôn ngữ Scala (giới thiệu chung, lịch sử phát triển, một số đặc điểm, demo chương trình "HelloWorld") 
+* [x] Play Framework (tổng quan về play framework, môi trường làm việc)
+* [x] Tạo project mới bằng Play Framework
+* [x] Giới thiệu một số IDE cho Scala và Play Framework
+* [x] Cấu trúc Play Framework
+* [x] Kết nối với database (mySQL)
 Các **chức năng của demo** đã thực hiện hoặc dự kiến thực hiện. Nhóm check vào các chức năng đã làm
 * [ ] Chức năng 1
 * [ ] Chức năng 2
